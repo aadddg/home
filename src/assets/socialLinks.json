@@ -22,17 +22,6 @@
     "icon": "/images/icon/email.png",
     "tip": "创始人Email ~",
     "url": "mailto:jasper@yzculture.top"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
   }
+
 ]
