@@ -12,6 +12,12 @@
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://heji.yzculture.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.yzculture.top/"
   }
+  
 ]
