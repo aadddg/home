@@ -44,19 +44,9 @@ import { Pagination, Mousewheel } from "swiper";
 // 仓库数据
 const projectData = [
   {
-    name: "null",
-    author: "null",
-    desc: "null",
-  },
-  {
-    name: "null",
-    author: "null",
-    desc: "null",
-  },
-  {
-    name: "null",
-    author: "null",
-    desc: "null",
+    name: "制作中~",
+    author: "制作中~",
+    desc: "制作中~",
   },
 ];
 
@@ -71,9 +61,9 @@ const projectList = computed(() => {
 });
 
 // 跳转至 Github
-const toGithub = (data) => {
-  window.open(`https://github.com/${data.author}/${data.name}`);
-};
+//const toGithub = (data) => {
+  //window.open(`https://githubfast.com/${data.author}/${data.name}`);
+//};
 </script>
 
 <style lang="scss" scoped>
