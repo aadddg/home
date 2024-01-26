@@ -109,7 +109,7 @@ onMounted(() => {
   const styleContent = "color: rgb(30,152,255);";
   const title1 = "圆周文化";
   const title2 = "开源代码：imsyy/home 我们在此表示诚挚的感谢！"
-  const content = `\n\n版本: ${config.version}\n;
+  const content = \n版本: ${config.version}\n;
 
 onBeforeUnmount(() => {
   window.removeEventListener("resize", getWidth);
