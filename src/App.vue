@@ -107,8 +107,8 @@ onMounted(() => {
   const styleTitle1 = "font-size: 20px;font-weight: 600;color: rgb(244,167,89);";
   const styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   const styleContent = "color: rgb(30,152,255);";
-  const title1 = "無名の主页";
-  const title2 = `本页面基于github的imsyy开源代码制作，我们在此表示诚挚的感谢！`;
+  const title1 = "圆周文化";
+  const title2 = `\n\n本页面基于github的imsyy开源代码制作，我们在此表示诚挚的感谢！我们不会抄袭任何一个作品，我们每一个改编的代码都在控制台有展示`;
   const content = `\n\n版本: ${config.version}\n`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
